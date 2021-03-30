@@ -4,12 +4,11 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-public class TestCase1 {
+public class TestCase5 {
 
 	@Test
 	public void test1() {
-		// added  comments
-		System.out.println("test12e224242");
+		System.out.println("test1");
 	}
 	@Test
 	public void test2() {
